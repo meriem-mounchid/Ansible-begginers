@@ -19,8 +19,6 @@
   #     count: 1
   #     vpc_subnet_id: subnet-0f9194b1729997927
   #     assign_public_ip: yes
-  #     aws_access_key: AKIAWKDZT2H3CVYGJSEZ
-  #     aws_secret_key: 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
   #     instance_tags:
   #       Name: MyTotoro
 
